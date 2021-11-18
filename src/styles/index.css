@@ -1,0 +1,22 @@
+.header{
+  font-size: 20px;
+  background-color: #C9C9C9;
+  border-radius: 5px;
+  height: 70px;
+  padding: 5px 0;
+}
+
+body {
+  background-color: #252525;
+}
+
+.body{
+  font-size: 28px;
+  color: white;
+  text-align: center;
+}
+
+.body-content{
+  font-size: 23px;
+  color: #787878;
+}
